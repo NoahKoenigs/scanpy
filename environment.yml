@@ -19,6 +19,7 @@ dependencies:
   - partd
   - bokeh
   - dask
+  - tsne
   - pip
   - pip:
     - scikit-learn
