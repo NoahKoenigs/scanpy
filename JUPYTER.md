@@ -1,7 +1,7 @@
 # Conda environment with environment.yml
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NoahKoenigs/Noah_Koenigs_scanpy/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NoahKoenigs/scanpy/HEAD)
 
 
 
@@ -10,7 +10,7 @@ A Binder-compatible repo with an `environment.yml` file.
 Access this Binder by clicking the blue badge above or at the following URL:
 
 
-https://mybinder.org/v2/gh/NoahKoenigs/Noah_Koenigs_scanpy/HEAD
+https://mybinder.org/v2/gh/NoahKoenigs/scanpy/HEAD
 
 
 ## Notes
