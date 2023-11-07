@@ -8,9 +8,9 @@ dependencies:
   - h5py
   - statsmodels
   - seaborn
+  - scipy
   - networkx
   - igraph
-  - anndata
   - psutil
   - toolz
   - matplotlib
@@ -24,3 +24,4 @@ dependencies:
   - pip:
     - scikit-learn
     - numpy
+    - anndata
